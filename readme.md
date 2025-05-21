@@ -11,5 +11,8 @@ For React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Getting Started with Spring Boot App
+The project was initialized with the Spring Initializer @ https://start.spring.io/
+
 to run on cmd line
-### `mvn spring-boot:run 
+### mvn spring-boot:run 
